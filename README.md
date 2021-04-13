@@ -1,9 +1,7 @@
-# LSAPP - Laravel From Scratch App
+# Vetro Media Blog Application
 
-This is the source code for the "Laravel From Scratch" Youtube series by Traversy media. It is a website with a blog application. It also includes full authentication and file uploading.
+This is the source code is for simple laravel blog application with crud functionality.
 
 ## Version
 1.0.0
 
-## Database
-The sql dump is in _SQL/lsapp.sql
